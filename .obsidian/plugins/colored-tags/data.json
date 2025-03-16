@@ -1,0 +1,43 @@
+{
+  "palette": {
+    "seed": 4,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "вернуться": 1,
+    "include": 2,
+    "Присваивание": 3,
+    "sizeof": 4,
+    "размер": 5,
+    "тип_данных": 6,
+    "Git": 7,
+    "облако": 8,
+    "вместе": 9,
+    "Bash": 10,
+    "Cmd": 11,
+    "makefile": 12,
+    "gcc": 13,
+    "vim": 14,
+    "miro": 15,
+    "sql": 16,
+    "субд": 17,
+    "ttl": 18,
+    "пакет": 19,
+    "netstat": 20,
+    "lsof": 21,
+    "mtr": 22,
+    "сети": 23,
+    "маршрутизация": 24,
+    "ps": 25,
+    "процессы": 26,
+    "DNS": 27,
+    "Записи": 28
+  },
+  "_version": 3
+}
